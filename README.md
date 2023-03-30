@@ -1,16 +1,47 @@
-### Hi there 👋
+## About Me 🧑‍🎓🛫🎶
 
-<!--
-**wojkr/wojkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate and motivated individual who is eager to kickstart my career in web development as a junior full-stack developer. I have a degree in aircraft engines  and I am also a talented musician.
 
-Here are some ideas to get you started:
+## Technology 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front End 🎨
+
+- React ⚛️
+- Redux 🔄
+- Toolkit 🔧
+- Vite 🚀
+- Tailwind 🐱‍🏍
+- MUI 🚀
+- Bootstrap 🥾
+- SCSS 🎨
+- Photopea 📸
+
+### Back End 🧰
+
+- Node.js 🟢
+- Node Package Manager 📦
+- Express 🛣️
+- MongoDB 🍃
+
+### More Technologies 🚀
+
+- Javascript 🟨
+- Typescript 🔷
+- Git 🐙
+- GitHub 🤖
+- Hoppscotch 🐇
+- REST 🧪
+- API 📡
+- AJAX 🔄
+- Firebase 🔥
+- Googling 🔎
+
+## Live Versions 🌐
+
+Check out some live versions of my projects:
+
+- [VanillaJS Block Breaker Game 🕹️🎮](https://wojkr.github.io/block-breaker/) 
+- [Pure CSS 3D Solar System ☀️🪐🌌](https://wojkr.github.io/pureCSS-solar-system/) 
+- [MERN Website 🌐🍬](https://sweet-app-try.onrender.com/)
+
+Thank you for visiting my Github profile! If you're interested in working together or have any questions, feel free to reach out to me. 🙌
