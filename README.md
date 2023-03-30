@@ -1,47 +1,54 @@
-## About Me 🧑‍🎓🛫🎶
+<h2 align="center"> 🧑‍🎓💻 About Me 🛫🎶 </h1>
 
-I am a passionate and motivated individual who is eager to kickstart my career in web development as a junior full-stack developer. I have a degree in aircraft engines  and I am also a talented musician.
+<p align="center">
+  <samp>I am a passionate and motivated individual who is eager to kickstart my career in web development as a junior full-stack developer. I have a degree in aircraft engines and I am also a talented musician.</samp>
+</p>
 
-## Technology 💻
+<h2 align="center">🚀 Skills and Technologies 🚀</h3>
+<p align="center">
+  <samp>Front-end: 
+    <a href="https://reactjs.org/" target="_blank">React</a> 
+    <a href="https://redux.js.org/" target="_blank">Redux</a>
+    <a href="https://redux-toolkit.js.org/" target="_blank">Toolkit</a>
+    <a href="https://vitejs.dev/" target="_blank">Vite</a>
+    <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>
+    <a href="https://mui.com/" target="_blank">MUI</a>
+    <a href="https://getbootstrap.com/" target="_blank">Bootstrap</a>
+    <a href="https://sass-lang.com/" target="_blank">SCSS</a>
+    <a href="https://www.photopea.com/" target="_blank">Photopea</a>
+  </samp>
+</p>
 
-### Front End 🎨
+<p align="center">
+  <samp>Back-end: 
+    <a href="https://nodejs.org/en/" target="_blank">Node.js</a> 
+    <a href="https://www.npmjs.com/" target="_blank">NodePackageManager</a> 
+    <a href="https://expressjs.com/" target="_blank">Express</a> 
+    <a href="https://www.mongodb.com/" target="_blank">MongoDB</a>
+  </samp>
+</p>
 
-- React ⚛️
-- Redux 🔄
-- Toolkit 🔧
-- Vite 🚀
-- Tailwind 🐱‍🏍
-- MUI 🚀
-- Bootstrap 🥾
-- SCSS 🎨
-- Photopea 📸
-
-### Back End 🧰
-
-- Node.js 🟢
-- Node Package Manager 📦
-- Express 🛣️
-- MongoDB 🍃
-
-### More Technologies 🚀
-
-- Javascript 🟨
-- Typescript 🔷
-- Git 🐙
-- GitHub 🤖
-- Hoppscotch 🐇
-- REST 🧪
-- API 📡
-- AJAX 🔄
-- Firebase 🔥
-- Googling 🔎
-
-## Live Versions 🌐
-
-Check out some live versions of my projects:
-
-- [VanillaJS Block Breaker Game 🕹️🎮](https://wojkr.github.io/block-breaker/) 
-- [Pure CSS 3D Solar System ☀️🪐🌌](https://wojkr.github.io/pureCSS-solar-system/) 
-- [MERN Website 🌐🍬](https://sweet-app-try.onrender.com/)
-
+<p align="center">
+  <samp>More Technologies: 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a> 
+    <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
+    <a href="https://git-scm.com/" target="_blank">Git</a> 
+    <a href="https://github.com/" target="_blank">GitHub</a> 
+    <a href="https://hoppscotch.io/" target="_blank">Hoppscotch</a>
+    <a href="https://restfulapi.net/" target="_blank">RestAPI</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest" target="_blank">AJAX</a> 
+    <a href="https://firebase.google.com/" target="_blank">Firebase</a> 
+    <a href="https://www.google.com/" target="_blank">Googling</a>
+  </samp>
+</p>
+<h2 align="center">🌐 Live Projects 🌐</h3>
+<p align="center">
+  <samp>
+    <a href="https://wojkr.github.io/block-breaker/" target="_blank">VanillaJS Block Breaker Game</a> 🎮 | 
+    <a href="https://wojkr.github.io/pureCSS-solar-system/" target="_blank">PureCSS 3d Solar System</a> 🪐 | 
+    <a href="https://sweet-app-try.onrender.com/" target="_blank">MERN website</a> 🛒
+   </samp>
+</p>
+<p align="center">
 Thank you for visiting my Github profile! If you're interested in working together or have any questions, feel free to reach out to me. 🙌
+</p>
