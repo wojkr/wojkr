@@ -1,7 +1,7 @@
 <h2 align="center"> 🧑‍🎓💻 About Me 🛫🎶 </h1>
 
 <p align="center">
-  <samp>I am a passionate and motivated individual who is eager to kickstart my career in web development as a junior full-stack developer. I have a degree in aircraft engines and I am also a talented musician.</samp>
+  <samp>I am a passionate and motivated individual - a junior full-stack developer. I have a degree in aircraft engines and I am also a talented musician.</samp>
 </p>
 
 <h2 align="center">🚀 Skills and Technologies 🚀</h3>
