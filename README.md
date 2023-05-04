@@ -47,6 +47,7 @@
     <a href="https://wojkr.github.io/block-breaker/" target="_blank">VanillaJS Block Breaker Game</a> 🎮 | 
     <a href="https://wojkr.github.io/pureCSS-solar-system/" target="_blank">PureCSS 3d Solar System</a> 🪐 | 
     <a href="https://sweet-app-try.onrender.com/" target="_blank">MERN website</a> 🛒
+    <a href="https://nomad-hive-marketplace.vercel.app/" target="_blank">marketplace website</a> 🏡
    </samp>
 </p>
 <p align="center">
