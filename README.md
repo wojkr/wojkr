@@ -3,6 +3,12 @@
 <p align="center">
   <samp>I am a passionate and motivated individual - a junior full-stack developer. I have a degree in aircraft engines and I am also a talented musician.</samp>
 </p>
+<a align="center" href="https://www.codewars.com/users/Voychy">
+<p align="center">
+
+<img src="https://www.codewars.com/users/Voychy/badges/small"/>
+</p>
+</a>
 
 <h2 align="center">🚀 Skills and Technologies 🚀</h3>
 <p align="center">
