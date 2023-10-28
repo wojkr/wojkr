@@ -62,4 +62,5 @@
 </p>
 <p align="center"> 
 Thank you for visiting my Github profile! If you're interested in working together or have any questions, feel free to <a href="https://wojkr.github.io/portfolio-page/#contact" target="_blank">reach out to me</a>. 🙌
+  ![](https://komarev.com/ghpvc/?username=wojkr&style=flat-square)
 </p>
