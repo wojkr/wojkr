@@ -1,16 +1,19 @@
-<h2 align="center"> 🧑‍🎓💻 About Me 🛫🎶 </h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <samp>I am a passionate and motivated individual - a junior full-stack developer. I have a degree in aircraft engines and I am also a talented musician.</samp>
+  <samp>
+    I'm a software engineer specializing in .NET web technologies💻. My journey has been quite eclectic, with a degree in aircraft engines🛫 and a flair for music🎶. This diverse background fuels my creativity and problem-solving skills in the tech world.
+  </samp>
 </p>
+
 <a align="center" href="https://www.codewars.com/users/Voychy">
-<p align="center">
-
-<img src="https://www.codewars.com/users/Voychy/badges/small"/>
-</p>
+  <p align="center">
+    <img src="https://www.codewars.com/users/Voychy/badges/small"/>
+  </p>
 </a>
 
-<h2 align="center">🚀 Skills and Technologies 🚀</h3>
+<br>
+<h3 align="center">🚀 Skills and Technologies 🚀</h3>
 <p align="center">
   <samp>Front-end: 
     <a href="https://reactjs.org/" target="_blank">React</a> 
@@ -51,7 +54,9 @@
     <a href="https://www.google.com/" target="_blank">Googling</a>
   </samp>
 </p>
-<h2 align="center">🌐 Live Projects 🌐</h3>
+
+<br>
+<h3 align="center">🌐 Live Projects 🌐</h3>
 <p align="center">
   <samp>
     <a href="https://wojkr.github.io/block-breaker/" target="_blank">VanillaJS Block Breaker Game</a> 🎮 | 
@@ -60,8 +65,12 @@
     <a href="https://nomad-hive-marketplace.vercel.app/" target="_blank">marketplace website</a> 🏡
    </samp>
 </p>
+
+<br>
 <p align="center"> 
-<samp>Thank you for visiting my Github profile! If you're interested in working together or have any questions, feel free to <a href="https://wojkr.github.io/portfolio/#contact" target="_blank">reach out to me</a>.</samp> 🙌
+  <samp>
+    Thank you for visiting my Github profile! If you're interested in working together or have any questions, feel free to <a href="https://wojkr.github.io/portfolio/#contact" target="_blank">reach out to me</a>.
+  </samp> 🙌
 </p>
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=wojkr&style=flat-square"/>
