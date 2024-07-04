@@ -31,6 +31,9 @@
 <p align="center">
   <samp>Back-end: 
     <a href="https://learn.microsoft.com/en-us/dotnet/" target="_blank">C# .NET</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/overview" target="_blank">ASP.NET</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/entity-framework" target="_blank">Entity Framework</a>
+    <a href="https://www.iso.org/standard/76583.html" target="_blank">SQL</a>
     <a href="https://nodejs.org/en/" target="_blank">Node.js</a> 
     <a href="https://www.npmjs.com/" target="_blank">NodePackageManager</a> 
     <a href="https://expressjs.com/" target="_blank">Express</a> 
@@ -44,7 +47,6 @@
   <samp>More Technologies: 
     <a href="https://www.typescriptlang.org/" target="_blank">TypeScript</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript</a> 
-    <a href="https://wordpress.org/" target="_blank">Wordpress</a> 
     <a href="https://git-scm.com/" target="_blank">Git</a> 
     <a href="https://github.com/" target="_blank">GitHub</a> 
     <a href="https://hoppscotch.io/" target="_blank">Hoppscotch</a>
@@ -61,8 +63,8 @@
   <samp>
     <a href="https://wojkr.github.io/block-breaker/" target="_blank">VanillaJS Block Breaker Game</a> 🎮 | 
     <a href="https://wojkr.github.io/pureCSS-solar-system/" target="_blank">PureCSS 3d Solar System</a> 🪐 | 
-    <a href="https://sweet-app-try.onrender.com/" target="_blank">MERN website</a> 🛒 | 
-    <a href="https://nomad-hive-marketplace.vercel.app/" target="_blank">marketplace website</a> 🏡
+    <a href="https://sweet-app-try.onrender.com/" target="_blank">Full Stack CRUD Website</a> 🛒 | 
+    <a href="https://nomad-hive-marketplace.vercel.app/" target="_blank">Marketplace Website</a> 🏡
    </samp>
 </p>
 
